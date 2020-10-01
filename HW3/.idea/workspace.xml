@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36eaf9be-a664-4624-a04b-ccd5a4e8d088" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="G3PluginsProjectSettings">
+    <appliedSettings>
+      <entry key="LinkifyInternalShortlinks" value="true" />
+      <entry key="RecognizedNullableAnnotations" value="true" />
+    </appliedSettings>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hsqu6nNbtqhOJkrgWJ2fUbjgNL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv xray reader" type="PythonConfigurationType" factoryName="Python">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xray_usage.py" />
+      <option name="PARAMETERS" value="--xray_data_file xrays.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36eaf9be-a664-4624-a04b-ccd5a4e8d088" name="Default Changelist" comment="" />
+      <created>1600810366495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600810366495</updated>
+      <workItem from="1600810368033" duration="20088000" />
+      <workItem from="1601184028146" duration="6734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1257" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600813138344">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1257" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600813138344" />
+    <state width="1578" height="329" key="GridCell.Tab.0.bottom" timestamp="1601592533440">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.0.bottom/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533440" />
+    <state width="1578" height="329" key="GridCell.Tab.0.center" timestamp="1601592533439">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.0.center/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533439" />
+    <state width="1578" height="329" key="GridCell.Tab.0.left" timestamp="1601592533439">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.0.left/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533439" />
+    <state width="1578" height="329" key="GridCell.Tab.0.right" timestamp="1601592533440">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.0.right/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533440" />
+    <state width="1578" height="329" key="GridCell.Tab.1.bottom" timestamp="1601592533442">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.1.bottom/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533441" />
+    <state width="1578" height="329" key="GridCell.Tab.1.center" timestamp="1601592533441">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.1.center/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533441" />
+    <state width="1578" height="329" key="GridCell.Tab.1.left" timestamp="1601592533440">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.1.left/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533440" />
+    <state width="1578" height="329" key="GridCell.Tab.1.right" timestamp="1601592533441">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="329" key="GridCell.Tab.1.right/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601592533441" />
+    <state x="1219" y="363" key="SettingsEditor" timestamp="1601185780755">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1219" y="363" key="SettingsEditor/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601185780755" />
+    <state x="1372" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1601184028165">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1372" y="558" key="com.intellij.ide.util.TipDialog/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601184028165" />
+    <state x="1095" y="212" key="new project wizard" timestamp="1601586897968">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1095" y="212" key="new project wizard/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1601586897968" />
+    <state x="1367" y="440" width="702" height="676" key="search.everywhere.popup" timestamp="1600908111280">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1367" y="440" width="702" height="676" key="search.everywhere.popup/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600908111280" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xray_usage.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xray_usage.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW3$csv_xray_reader.coverage" NAME="csv xray reader Coverage Results" MODIFIED="1601504826199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
