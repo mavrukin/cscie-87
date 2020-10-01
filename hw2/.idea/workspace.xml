@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30c05f8a-8457-4ba7-8ba5-81307a21dccd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="G3PluginsProjectSettings">
+    <appliedSettings>
+      <entry key="LinkifyInternalShortlinks" value="true" />
+      <entry key="RecognizedNullableAnnotations" value="true" />
+    </appliedSettings>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hcTwd4ftsu3BuVCq36gwOcbY4v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hl7 data processor" type="PythonConfigurationType" factoryName="Python">
+      <module name="hw2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hl7_processor.py" />
+      <option name="PARAMETERS" value="--hl7_data_directory Clinical_HL7_Samples" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c05f8a-8457-4ba7-8ba5-81307a21dccd" name="Default Changelist" comment="" />
+      <created>1600309620225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600309620225</updated>
+      <workItem from="1600309624818" duration="847000" />
+      <workItem from="1600310747376" duration="2421000" />
+      <workItem from="1600358380216" duration="13663000" />
+      <workItem from="1600993226947" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="449" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600355959159">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="400" y="449" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600355959159" />
+    <state x="1440" y="534" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600363380330">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1440" y="534" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600363380330" />
+    <state width="1578" height="269" key="GridCell.Tab.0.bottom" timestamp="1600810321544">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.bottom/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321544" />
+    <state width="1578" height="269" key="GridCell.Tab.0.center" timestamp="1600810321543">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.center/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321543" />
+    <state width="1578" height="269" key="GridCell.Tab.0.left" timestamp="1600810321543">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.left/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321543" />
+    <state width="1578" height="269" key="GridCell.Tab.0.right" timestamp="1600810321543">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="269" key="GridCell.Tab.0.right/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321543" />
+    <state width="1578" height="331" key="GridCell.Tab.1.bottom" timestamp="1600810321537">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="331" key="GridCell.Tab.1.bottom/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321537" />
+    <state width="1578" height="331" key="GridCell.Tab.1.center" timestamp="1600810321536">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="331" key="GridCell.Tab.1.center/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321536" />
+    <state width="1578" height="331" key="GridCell.Tab.1.left" timestamp="1600810321536">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="331" key="GridCell.Tab.1.left/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321536" />
+    <state width="1578" height="331" key="GridCell.Tab.1.right" timestamp="1600810321536">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="1578" height="331" key="GridCell.Tab.1.right/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600810321536" />
+    <state x="1163" y="340" key="SettingsEditor" timestamp="1600373701909">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1163" y="340" key="SettingsEditor/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600373701909" />
+    <state width="810" height="509" key="XDebugger.FullValuePopup" timestamp="1600356881625">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state width="810" height="509" key="XDebugger.FullValuePopup/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600356881625" />
+    <state x="666" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1600358386419">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="666" y="319" key="com.intellij.ide.util.TipDialog/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600358386419" />
+    <state x="1095" y="308" key="new project wizard" timestamp="1600406373016">
+      <screen x="0" y="23" width="2560" height="1327" />
+    </state>
+    <state x="1095" y="308" key="new project wizard/0.23.2560.1327/-1296.-487.1296.2281@0.23.2560.1327" timestamp="1600406373016" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hl7_processor.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hl7_processor.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw2$hl7_data_processor.coverage" NAME="hl7 data processor Coverage Results" MODIFIED="1600732329253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
